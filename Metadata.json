@@ -1,0 +1,20 @@
+{
+    "Author": "Luben (sharkycreations)",
+    "ContentSize": 9658,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/change-the-content-type-of-multiple-types-in-azure-blob-storage(powershell)/master/ChangeMultipleAzureBlobContentType%20.ps1",
+    "DownloadCount": 1136,
+    "Id": "Change-the-content-type-of-c0e3afef",
+    "IsFederated": false,
+    "IsWorkflow": false,
+    "Popularity": 337,
+    "RaterCount": 0,
+    "Rating": 0.0,
+    "ReleaseDate": "2015-6-10T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "PowerShell",
+    "Summary": "Change the content type of multiple types in Azure blob storage(PowerShell)Introduction\u00a0This powershell script changes the content type of multiple files or single file\u00a0located in an Azure Blob storage to different content types depending on their extension and the rules set in",
+    "Title": "Change the content type of multiple types in Azure blob storage(PowerShell)",
+    "UpdatedDate": "2015-6-10T00:00:00",
+    "Url": "https://github.com/azureautomation/change-the-content-type-of-multiple-types-in-azure-blob-storage(powershell)",
+    "UserTags": "Microsoft Azure, Powershell, Images"
+}
